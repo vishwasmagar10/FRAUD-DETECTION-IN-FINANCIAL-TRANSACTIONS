@@ -1,5 +1,5 @@
 # Project: 
-#FRAUD DETECTION IN FINANCIAL TRANSACTIONS
+**FRAUD DETECTION IN FINANCIAL TRANSACTIONS**
 
 
 Description: Develop a machine learning model to detect fraudulent transactions in a financial dataset.
